@@ -1,7 +1,7 @@
 # MarketMind-RL-Stock-Trader
 Smart money meets smart code – an end-to-end deep-reinforcement-learning pipeline that studies market behaviour, adapts on the fly, and executes trades with surgical precision.
 
-![MarketMind Banner](docs/banner.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20by-CAPTAINCODERCOOL-blueviolet" />
